@@ -1,0 +1,8 @@
+Second taken 0
+Microseconds taken 456
+5  -4  
+4  5  
+Second taken 0
+Microseconds taken 512
+5  -4  
+4  5  

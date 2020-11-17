@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1605632900 source:/home/afnan/Desktop/Thread/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	"ReadInput.h"
+
+1605557435 /home/afnan/Desktop/Thread/MainFunction.h
+
+1605610059 /home/afnan/Desktop/Thread/ReadInput.h
+	"Split.h"
+
+1605610127 /home/afnan/Desktop/Thread/Split.h
+	<string.h>
+
+1605581790 /home/afnan/Desktop/Thread/WriteInFile.h
+
